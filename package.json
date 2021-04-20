@@ -1,0 +1,29 @@
+{
+  "name": "genes",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "apexcharts": "^3.26.1",
+    "axios": "^0.21.1",
+    "chart.js": "^3.1.1",
+    "vue": "^3.0.5",
+    "vue-chartjs": "^3.5.1",
+    "vue-google-charts": "^0.3.3",
+    "vue-router": "^4.0.0-alpha.11",
+    "vue3-apexcharts": "^1.3.0",
+    "vue3-chart-v2": "^0.8.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "@vitejs/plugin-vue-jsx": "^1.1.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1",
+    "vite": "^2.1.5"
+  }
+}
